@@ -1,14 +1,16 @@
-![演示](./images/1.png) 
+![演示](./images/1.gif) 
 
-![演示](./images/2.png) 
+![演示](./images/2.gif) 
 
-![演示](./images/3.png) 
+![演示](./images/3.gif) 
 
-![演示](./images/4.png) 
+![演示](./images/4.gif) 
 
-![演示](./images/5.png) 
+![演示](./images/5.gif) 
 
-![演示](./images/6.png) 
+![演示](./images/6.gif) 
+
+![演示](./images/7.gif) 
 
 
 # 基本操作简述
